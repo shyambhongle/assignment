@@ -1,4 +1,4 @@
-# Example for using maestro with React Native (Expo)
+# React Native (Expo)
 
 This repository is for a test assignment on testing Automation. The app has three elements: two input fields and one submission button. Please write test cases for performing unit testing on this component. Below are the detailed steps on how to run the app.
 All the elements have testid-
